@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![yu_pippi's github stats](https://github-readme-stats.vercel.app/api?username=Yuu-taremayu&count_private=true&show_icons=true&theme=dark)](https://github.com/Yuu-taremayu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuu-taremayu)](https://github.com/Yuu-taremayu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuu-taremayu&theme=dark)](https://github.com/Yuu-taremayu/github-readme-stats)
